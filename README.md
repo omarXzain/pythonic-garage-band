@@ -1,4 +1,4 @@
-PR: [](https://github.com/omarXzain/pythonic-garage-band/pull/2)
+PR: [](https://github.com/omarXzain/pythonic-garage-band/pull/1)
 
 ## Number and name of feature: Lab: 04 - Classes, and Fixtures (Garage Band)
 
